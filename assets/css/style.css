@@ -302,7 +302,7 @@ section {
   padding: 0;
 }
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -368,7 +368,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 50px;
   display: block;
   background: none;
   border-radius: 0;
